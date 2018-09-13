@@ -1,3 +1,4 @@
 # Jazz
-Jazz forever
+Jazz forever,
 It's cool!
+let's add something new!
